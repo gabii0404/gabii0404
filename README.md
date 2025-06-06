@@ -1,4 +1,4 @@
-## mó paz 🪦
+## 👍​
 
 meu nome é Gabriela
 
@@ -6,7 +6,7 @@ meu nome é Gabriela
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### você pode entrar em contato comigo 📝
+### você pode entrar em contato comigo ❗
 
 gabriela.gutierres.oliveira@escola.pr.gov.br
 
